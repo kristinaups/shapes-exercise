@@ -1,0 +1,2 @@
+# shapes-exercise
+Python exercise
